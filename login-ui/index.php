@@ -44,6 +44,7 @@
 						<button type="submit" class="login100-form-btn">
 							Ingresar
 						</button>
+						<a href="adminpanel/index.php">INICIAR SESION PROFESOR</a>
 					</div>
 				</form>
 			</div>
