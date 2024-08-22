@@ -44,6 +44,8 @@
 						<button type="submit" class="login100-form-btn">
 							Ingresar
 						</button>
+				<a href="login-ui/index.php">INICIAR SESION PROFESOR</a>
+
 					</div>
 				</form>
 			</div>
